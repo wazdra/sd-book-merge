@@ -1,4 +1,4 @@
-# sdbookmerge
+# sd-book-merge
 
 ScienceDirect serves books one chapter at a time. `sdbookmerge` merges the
 chapters back into one PDF, in the right order, keeping the original printed
